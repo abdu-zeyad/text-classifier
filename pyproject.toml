@@ -6,6 +6,8 @@ authors = ["abdu-zeyad <abd.d@live.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+keras = "^2.6.0"
+tensorflow = "^2.6.0"
 
 [tool.poetry.dev-dependencies]
 
